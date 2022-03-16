@@ -1,10 +1,21 @@
 # People_errand_app
 
 ### 登入畫面
+![login1](login1_ios.PNG "login1_ios")
+![login2](login2_ios.PNG "login1_ios")
 ### 主頁
+![homapage](homepage_ios.PNG "homepage_ios")
 ### 主頁(管理者)
+![homapage_manager](homepage_manager_ios.PNG "homepage_manager_ios")
 ### 審核頁面(管理者)
+![aduit](aduit_ios.PNG "aduit_ios")
 ### 個人資料頁面
+![profile](profile_ios.PNG "profile_ios")
 ### 公出頁面
+![goout1](goout1_ios.PNG "goout1_ios")
+![goout2](goout2_ios.PNG "goout2_ios")
 ### 請假頁面
+![leave](leave_ios.PNG "leave_ios")
 ### 紀錄頁面
+![record2](record2_ios.PNG "record2_ios")
+![record3](record3_ios.PNG "record3_ios")
